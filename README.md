@@ -17,7 +17,7 @@ Unity 项目文件夹管理增强插件，提供更好的可视化和管理体�
 1. 打开 Unity 的 Package Manager
 2. 点击左上角的 "+" 按钮
 3. 选择 "Add package from git URL"
-4. 输入：`https://github.com/你的用户名/Smart-Folder.git`
+4. 输入：`https://github.com/LotusPoi/LotussFolder.git`
 
 ### 方式二：直接下载
 
@@ -27,6 +27,7 @@ Unity 项目文件夹管理增强插件，提供更好的可视化和管理体�
 ## 快速使用
 
 1. **自定义文件夹**
+
    - Alt + 左键点击：打开设置面板
    - Alt + 右键点击：重置设置
 
@@ -64,6 +65,7 @@ Unity 项目文件夹管理增强插件，提供更好的可视化和管理体�
 ## 更新日志
 
 ### v1.0.0 (2025-02-12)
+
 - 首次发布
 - 实现基础功能
 - 添加完整文档
